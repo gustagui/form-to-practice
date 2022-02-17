@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
     box-sizing: border-box;
 }
 
@@ -71,6 +72,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: cadetblue;
     gap: 20px;
 }
 
@@ -126,7 +128,7 @@ form {
 }
 
 #forgot {
-    color: grey;
+    /* color: grey; */
 }
 
 .svg-redes {
